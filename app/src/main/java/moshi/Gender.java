@@ -1,6 +1,7 @@
 package moshi;
 
 enum Gender {
-    MALE,
-    FEMALE
+    // TODO: 26/11/2017 make it work with capitals
+    male,
+    female
 }
